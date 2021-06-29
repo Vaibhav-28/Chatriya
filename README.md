@@ -1,4 +1,4 @@
-# Chatriya
+# socketNchat
 Simple chat room with sockets and threads in python
 
 A simple chat room with multiple clients using sockets and threading modules in Python
